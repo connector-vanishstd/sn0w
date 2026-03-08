@@ -4,20 +4,20 @@
     "Game": "csgo",
     "DownloadUrl": "later.",
     "FileName": "ev0.zip",
-    "ExePath": "launcher.exe"
+    "ExePath": "loader.exe"
   },
     {
     "Name": "gamesense",
     "Game": "csgo",
     "DownloadUrl": "later.",
     "FileName": "gs.zip",
-    "ExePath": "launcher.exe"
+    "ExePath": "loader.exe"
   },
   {
     "Name": "onetap",
     "Game": "csgo",
     "DownloadUrl": "later.",
     "FileName": "ot.zip",
-    "ExePath": "injector.exe"
+    "ExePath": "loader.exe"
   }
 ]
