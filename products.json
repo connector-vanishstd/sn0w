@@ -1,1 +1,23 @@
-
+[
+  {
+    "Name": "ev0lve",
+    "Game": "csgo",
+    "DownloadUrl": "later.",
+    "FileName": "ev0.zip",
+    "ExePath": "launcher.exe"
+  },
+    {
+    "Name": "gamesense",
+    "Game": "csgo",
+    "DownloadUrl": "later.",
+    "FileName": "skeet.zip",
+    "ExePath": "launcher.exe"
+  },
+  {
+    "Name": "onetap",
+    "Game": "csgo",
+    "DownloadUrl": "later.",
+    "FileName": "onetap.zip",
+    "ExePath": "injector.exe"
+  }
+]
