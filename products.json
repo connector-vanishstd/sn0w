@@ -10,14 +10,14 @@
     "Name": "gamesense",
     "Game": "csgo",
     "DownloadUrl": "later.",
-    "FileName": "skeet.zip",
+    "FileName": "gs.zip",
     "ExePath": "launcher.exe"
   },
   {
     "Name": "onetap",
     "Game": "csgo",
     "DownloadUrl": "later.",
-    "FileName": "onetap.zip",
+    "FileName": "ot.zip",
     "ExePath": "injector.exe"
   }
 ]
