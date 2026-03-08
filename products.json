@@ -21,9 +21,9 @@
     "ExePath": "loader.exe"
   },
       {
-    "Name": "legendware [NOT DONE]",
+    "Name": "legendware",
     "Game": "csgo",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe"
   },
