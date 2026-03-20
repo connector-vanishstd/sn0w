@@ -13,6 +13,13 @@
     "FileName": "ev0.zip",
     "ExePath": "loader.exe"
   },
+      {
+    "Name": "primordial",
+    "Game": "csgo",
+    "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/primo.zip",
+    "FileName": "primo.zip",
+    "ExePath": "loader.exe"
+  },
         {
     "Name": "supremacy [NOT DONE]",
     "Game": "csgo",
