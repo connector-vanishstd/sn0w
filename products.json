@@ -5,7 +5,7 @@
     "DownloadUrl": "",
     "FileName": "sf.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/sn0w.png"
   },
   {
     "Name": "ev0lve",
@@ -13,7 +13,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/ev0.zip",
     "FileName": "ev0.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ev0.png"
   },
       {
     "Name": "primordial",
@@ -37,7 +37,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/lw.png"
   },
     {
     "Name": "fatality [NOT DONE]",
@@ -45,7 +45,7 @@
     "DownloadUrl": "",
     "FileName": "ft.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ft.png"
   },
   
   {
@@ -54,7 +54,7 @@
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/gs.png"
   },
   {
     "Name": "onetap",
@@ -62,6 +62,6 @@
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ot.png"
   }
 ]
