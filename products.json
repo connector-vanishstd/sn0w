@@ -2,7 +2,7 @@
     {
     "Name": "sn0wfa11 [NOT DONE]",
     "Game": "csgo",
-    "GameId": "730",
+    "GameId": "730:csgo",
     "DownloadUrl": "",
     "FileName": "sf.zip",
     "ExePath": "loader.exe",
@@ -11,7 +11,7 @@
   {
     "Name": "ev0lve",
     "Game": "csgo",
-    "GameId": "730",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/ev0.zip",
     "FileName": "ev0.zip",
     "ExePath": "loader.exe",
@@ -20,7 +20,7 @@
   {
     "Name": "primordial",
     "Game": "csgo",
-    "GameId": "730",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/primo.zip",
     "FileName": "primo.zip",
     "ExePath": "loader.exe",
@@ -29,7 +29,7 @@
   {
     "Name": "legendware",
     "Game": "csgo",
-    "GameId": "730",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe",
@@ -38,7 +38,7 @@
   {
     "Name": "gamesense",
     "Game": "csgo",
-    "GameId": "730",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/gs.zip",
     "FileName": "gs.zip",
     "ExePath": "loader.exe",
@@ -47,7 +47,7 @@
   {
     "Name": "onetap",
     "Game": "csgo",
-    "GameId": "730",
+    "GameId": "730:csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/ot.zip",
     "FileName": "ot.zip",
     "ExePath": "loader.exe",
@@ -56,7 +56,7 @@
   {
     "Name": "fatality [NOT DONE]",
     "Game": "csgo",
-    "GameId": "730",
+    "GameId": "730:csgo",
     "DownloadUrl": "",
     "FileName": "ft.zip",
     "ExePath": "loader.exe",
