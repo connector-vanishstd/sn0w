@@ -15,7 +15,7 @@
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ev0.png"
   },
-      {
+  {
     "Name": "primordial",
     "Game": "csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/primo.zip",
@@ -23,31 +23,14 @@
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
-        {
-    "Name": "supremacy [NOT DONE]",
-    "Game": "csgo",
-    "DownloadUrl": "",
-    "FileName": "sm.zip",
-    "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
-  },
-      {
+  {
     "Name": "legendware",
     "Game": "csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/lw.png"
-  },
-    {
-    "Name": "fatality [NOT DONE]",
-    "Game": "csgo",
-    "DownloadUrl": "",
-    "FileName": "ft.zip",
-    "ExePath": "loader.exe",
-    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ft.png"
-  },
-  
+  }, 
   {
     "Name": "gamesense",
     "Game": "csgo",
@@ -63,5 +46,13 @@
     "FileName": "ot.zip",
     "ExePath": "loader.exe",
     "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ot.png"
+  },
+  {
+    "Name": "fatality [NOT DONE]",
+    "Game": "csgo",
+    "DownloadUrl": "",
+    "FileName": "ft.zip",
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/ft.png"
   }
 ]
