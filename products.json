@@ -4,42 +4,48 @@
     "Game": "csgo",
     "DownloadUrl": "",
     "FileName": "sf.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
   {
     "Name": "ev0lve",
     "Game": "csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/ev0.zip",
     "FileName": "ev0.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
       {
     "Name": "primordial",
     "Game": "csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/refs/heads/main/primo.zip",
     "FileName": "primo.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
         {
     "Name": "supremacy [NOT DONE]",
     "Game": "csgo",
     "DownloadUrl": "",
     "FileName": "sm.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
       {
     "Name": "legendware",
     "Game": "csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/lw.zip",
     "FileName": "lw.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
     {
     "Name": "fatality [NOT DONE]",
     "Game": "csgo",
     "DownloadUrl": "",
     "FileName": "ft.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
   
   {
@@ -47,13 +53,15 @@
     "Game": "csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/gs.zip",
     "FileName": "gs.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   },
   {
     "Name": "onetap",
     "Game": "csgo",
     "DownloadUrl": "https://raw.githubusercontent.com/powerdevvv/sn0w/refs/heads/main/ot.zip",
     "FileName": "ot.zip",
-    "ExePath": "loader.exe"
+    "ExePath": "loader.exe",
+    "IconUrl": "https://raw.githubusercontent.com/connector-vanishstd/sn0w/main/icons/placeholder.png"
   }
 ]
